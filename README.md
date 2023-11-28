@@ -264,4 +264,3 @@
 
 3. タブを×ボタンで閉じましょう。
 ![image](https://user-images.githubusercontent.com/32722128/149917438-0d04f110-2f42-44b1-b599-7a020dd83993.png)
-
